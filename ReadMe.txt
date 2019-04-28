@@ -7,6 +7,7 @@ AppWizard has created this dp1 application for you.
 This file contains a summary of what you will find in each of the files that
 make up your dp1 application.
 
+Przemysław Turalski i Rafał Sławiński
 
 dp1.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
