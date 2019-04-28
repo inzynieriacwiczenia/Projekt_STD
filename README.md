@@ -1,3 +1,2 @@
 # Projekt_STD
-### Przemysław Turalski,
-### Rafał Sławiński,
+### Przemysław Turalski i Rafał Sławiński
